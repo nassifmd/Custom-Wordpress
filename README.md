@@ -21,15 +21,15 @@ This Custom WordPress is a beginner-friendly project designed to introduce users
 * Configure wp-config.php
 * Run the installation
 * Complete the installation
-Visit https://developer.wordpress.org/advanced-administration/before-install/howto-install/ for more details
+* Visit https://developer.wordpress.org/advanced-administration/before-install/howto-install/ for more details
 
 
 ## Authors
 
 Contributors names and contact info
 
-Email: nassif.dauda@gmail.com
-Website: nassifdauda.com
+*Email: nassif.dauda@gmail.com
+*Website: nassifdauda.com
 
 ## Version History
 * 1.0
