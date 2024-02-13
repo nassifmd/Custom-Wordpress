@@ -29,7 +29,7 @@ This Custom WordPress is a beginner-friendly project designed to introduce users
 Contributors names and contact info
 
 * Email: nassif.dauda@gmail.com
-* Website: nassifdauda.com
+* Website: https://nassifdauda.com
 
 ## Version History
 * 1.0
